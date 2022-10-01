@@ -1,6 +1,5 @@
 - 👾 Hello! I’m @Zekaeria
 - ❤️ I’m interested in art and code!
-- 📖 I’m currently learning API.
 
 <!---
 Zekaeria/Zekaeria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
