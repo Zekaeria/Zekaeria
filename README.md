@@ -1,4 +1,4 @@
-- 👾 Hello! I’m @Zekaeria
+- 👾 Hello, I’m @Zekaeria
 - ❤️ I’m interested in art and code!
 
 <!---
