@@ -2,7 +2,7 @@
 
 I'm Zekaeria! I'm a full-stack developer based in the U.S. who enjoys bringing creative ideas to life.
 
-🌱 I’m currently working on 25 Days of Web Development. [Repo](https://pages.github.com/), [Codepen.io](https://codepen.io/zekaeria) \
+🌱 I’m currently working on 25 Days of Web Development. 👉 [Repo](https://github.com/Zekaeria/25-days-of-web-development), [CodePen](https://codepen.io/zekaeria) \
 👨‍💻 I work with Java, C/C++, Python, JavaScript, HTML, CSS, and React. \
 🖼️ When I'm not coding, you can catch me reading books and painting pets, people, and other geeky things. 
 
