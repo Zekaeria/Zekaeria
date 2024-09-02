@@ -3,7 +3,7 @@
 I'm Zekaeria! I'm a full-stack developer based in the U.S. who enjoys bringing creative ideas to life.
 
 🥳 I recently finished *25 Days of Web Development Challenge*. I'd love for you to check it out! 👉 [CodePen](https://codepen.io/zekaeria), [Repo](https://github.com/Zekaeria/25-days-of-web-development) \
-🌱 I’m currently making a "Choose Your Own Adventure" comedy game for *Pixel Game Jam 2024 with Sanforge Studio*. 👉 [itch.io](https://starelli.itch.io/)\
+🌱 I love making games in my free time! Check out my "Choose Your Own Adventure" comedy game for *Pixel Game Jam 2024 with Sanforge Studio*. 👉 [itch.io](https://starelli.itch.io/)\
 👨‍💻 I work with Java, C/C++, C#, Python, SQL, JavaScript/HTML/CSS, and React. \
 🖼️ When I'm not coding, you can catch me reading books and painting pets, plants, and other geeky things. 
 
